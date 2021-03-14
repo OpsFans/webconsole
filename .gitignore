@@ -26,12 +26,10 @@ bin/apibox
 
 .vscode/tasks.json
 
-bin/apibox
-
-run
-*/run.go
 /bin/apibox
 log/
 src/github.com/
 src/golang.org/
 *.swp
+bin/webconsole
+conf/conf.json
